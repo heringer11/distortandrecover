@@ -1,4 +1,4 @@
-# from scipy.misc import imread, imresize
+from scipy.misc import imread, imresize
 import numpy as np
 import glob
 import skimage.color as color
